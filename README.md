@@ -1,3 +1,3 @@
 # SwiftGestureRecognizer
 
-#contain ScrollView and GestureRecognizer Animated
+Contain ScrollView and GestureRecognizer Animated
